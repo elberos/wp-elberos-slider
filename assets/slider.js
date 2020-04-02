@@ -4,7 +4,7 @@
  *  Elberos Slider Plugin
  *  URL: https://github.com/elberos/wp-elberos-slider 
  *
- *  (c) Copyright 2016-2020 "Ildar Bikmamatov" <support@elberos.org>
+ *  (c) Copyright 2020 "Ildar Bikmamatov" <support@elberos.org>
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -54,7 +54,7 @@ function ElberosSlider($el, params)
 	}
 }
 
-Object.assign( ElberosSlider.prototype, {	
+Object.assign( ElberosSlider.prototype, {
 	
 	/**
 	 * Init form
